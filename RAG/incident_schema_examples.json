@@ -1,0 +1,181 @@
+[
+{
+  "input": "Heavy rainfall across the Mumbai region has caused major waterlogging and traffic disruption. The Indian Meteorological Department issued a red alert. Over a dozen people were reported dead. Several parts of the city are submerged, and emergency services are working around the clock.",
+  "output": {
+    "location": "Mumbai, Maharashtra",
+    "time": "new Date('2024-10-12T15:00:00Z')",
+    "severity": "high",
+    "source": "Indian Meteorological Department",
+    "impact": "Disruption of local transportation and flooding in low-lying areas",
+    "description": "Heavy rainfall caused severe flooding in multiple areas of Mumbai.",
+    "affectedArea": 45,
+    "casualties": 12,
+    "status": "active",
+    "processed_by": "AI Analysis System",
+    "processing_time": "new Date('2025-05-11T09:00:00Z')",
+    "analysis": "Mumbai experiences seasonal flooding, but this year's monsoon has been 30% above normal, causing major disruption. Emergency services are stretched, and rainfall is expected to continue.",
+    "recommendations": [
+      "Evacuate residents from flood-prone zones",
+      "Close down vulnerable rail routes temporarily",
+      "Deploy additional emergency response teams",
+      "Issue weather alerts to surrounding districts",
+      "Ensure functioning of drainage infrastructure"
+    ],
+    "lastUpdated": "new Date('2025-05-11T09:00:00Z')"
+  }
+},
+
+{
+  "input": "An earthquake with a magnitude of 6.1 struck near Shillong in northeastern India early Monday morning. Minor structural damage was reported in nearby villages, but no immediate casualties. The National Seismology Center confirmed the epicenter was 30 km east of the city.",
+  "output": {
+    "location": "Shillong, Meghalaya",
+    "time": "new Date('2025-01-08T04:30:00Z')",
+    "severity": "medium",
+    "source": "National Seismology Center",
+    "impact": "Minor structural damage in surrounding rural areas",
+    "description": "A 6.1 magnitude earthquake struck near Shillong, causing some damage but no casualties.",
+    "affectedArea": 120,
+    "casualties": 0,
+    "status": "contained",
+    "processed_by": "AI Analysis System",
+    "processing_time": "new Date('2025-05-11T10:00:00Z')",
+    "analysis": "The tremor originated in a known seismic zone. While damage was limited, aftershocks are possible. Authorities are on high alert.",
+    "recommendations": [
+      "Monitor for aftershocks",
+      "Inspect buildings for structural weaknesses",
+      "Provide emergency shelters to affected villages",
+      "Issue advisories via radio and mobile alerts"
+    ],
+    "lastUpdated": "new Date('2025-05-11T10:00:00Z')"
+  }
+}
+,
+{
+  "input": "A major fire broke out in a chemical factory in Vadodara, Gujarat late Thursday night. The fire services battled flames for over 4 hours. While the fire was eventually controlled, two workers were reported dead and property worth crores was damaged.",
+  "output": {
+    "location": "Vadodara, Gujarat",
+    "time": "new Date('2025-03-20T22:00:00Z')",
+    "severity": "high",
+    "source": "Fire Department",
+    "impact": "Significant property loss and two fatalities reported",
+    "description": "A fire in a chemical factory caused major damage and loss of life.",
+    "affectedArea": 3,
+    "casualties": 2,
+    "status": "resolved",
+    "processed_by": "AI Analysis System",
+    "processing_time": "new Date('2025-05-11T10:10:00Z')",
+    "analysis": "The incident appears to be due to poor chemical handling protocols. Fire containment was timely but casualties occurred due to late alarms.",
+    "recommendations": [
+      "Conduct full investigation into safety violations",
+      "Install advanced fire suppression systems",
+      "Provide compensation to victims’ families",
+      "Audit all similar industrial sites"
+    ],
+    "lastUpdated": "new Date('2025-05-11T10:10:00Z')"
+  }
+}
+,
+{
+  "input": "Temperatures in Delhi crossed 47°C for the third consecutive day, triggering a severe heatwave alert. Hospitals have reported a rise in heatstroke cases and dehydration among elderly and children.",
+  "output": {
+    "location": "Delhi, India",
+    "time": "new Date('2025-05-10T12:00:00Z')",
+    "severity": "medium",
+    "source": "India Meteorological Department",
+    "impact": "Health issues among vulnerable populations; risk to public health",
+    "description": "Extreme temperatures caused a heatwave emergency across Delhi.",
+    "affectedArea": "New Delhi and NCR",
+    "casualties": 0,
+    "status": "active",
+    "processed_by": "AI Analysis System",
+    "processing_time": "new Date('2025-05-11T10:20:00Z')",
+    "analysis": "Consistent high temperatures over several days indicate an ongoing climate pattern. Urban heat island effects worsen conditions. Authorities have begun cooling center initiatives.",
+    "recommendations": [
+      "Open emergency cooling centers",
+      "Distribute water and ORS",
+      "Issue frequent heat advisories",
+      "Encourage remote working hours"
+    ],
+    "lastUpdated": "new Date('2025-05-11T10:20:00Z')"
+  }
+}
+,
+{
+  "input": "A sudden burst of heavy rain flooded parts of Bhopal city yesterday. Waterlogging was seen in low-lying colonies. However, the drainage system responded well, and no injuries were reported.",
+  "output": {
+    "location": "Bhopal, Madhya Pradesh",
+    "time": "new Date('2025-04-02T18:00:00Z')",
+    "severity": "low",
+    "source": "miscellaneous",
+    "impact": "Localized flooding and minor travel disruption",
+    "description": "Short-term flooding occurred due to unexpected rain.",
+    "affectedArea": 5,
+    "casualties": 0,
+    "status": "resolved",
+    "processed_by": "AI Analysis System",
+    "processing_time": "new Date('2025-05-11T10:30:00Z')",
+    "analysis": "This was an isolated weather event with manageable outcomes. The city’s updated drainage mitigated most of the risk.",
+    "recommendations": [
+      "Keep pumps on standby in monsoon season",
+      "Install early-warning rain sensors",
+      "Clean drains periodically"
+    ],
+    "lastUpdated": "new Date('2025-05-11T10:30:00Z')"
+  }
+}
+,
+{
+  "input": "BBC NEWS BREAKING: Trump says India & Pakistan agree to ceasefire",
+  "output": {
+    "location": "Kashmir region, India-Pakistan border",
+    "time": "new Date('2025-05-10T17:00:00Z')",
+    "severity": "high",
+    "source": "U.S. Government",
+    "impact": "Ceasefire agreement reached after escalated cross-border attacks and civilian casualties",
+    "description": "India and Pakistan agreed to a full and immediate ceasefire following U.S.-mediated talks.",
+    "affectedArea": 150,
+    "casualties": 66,
+    "status": "active",
+    "processed_by": "AI Analysis System",
+    "processing_time": "new Date('2025-05-11T23:57:11Z')",
+    "analysis": "The ceasefire follows a significant escalation in the longstanding Kashmir conflict, with recent attacks resulting in numerous civilian casualties. U.S. mediation played a crucial role in bringing both nations to the negotiation table.",
+    "recommendations": [
+      "Establish a joint monitoring mechanism to oversee ceasefire adherence",
+      "Initiate diplomatic dialogues addressing the root causes of the conflict",
+      "Provide humanitarian aid to affected civilians in the border areas",
+      "Engage international organizations to support peacekeeping efforts",
+      "Implement confidence-building measures between the two nations"
+    ],
+    "lastUpdated": "new Date('2025-05-11T23:57:11Z')"
+  }
+}
+,
+{
+  "input": "BBC NEWS BREAKING: Trump says India and Pakistan agree to ceasefire. Ishaq Dar @MIshaqDar50: 'Pakistan and India have agreed to a ceasefire with immediate effect. Pakistan has always strived for peace and security in the region, without compromising on its sovereignty and territorial integrity!'",
+  "output": {
+    "location": "Kashmir region, India-Pakistan border",
+    "time": "new Date('2025-05-10T17:00:00Z')",
+    "severity": "high",
+    "source": "U.S. Government",
+    "impact": "Ceasefire agreement reached after escalated cross-border attacks and civilian casualties",
+    "description": "India and Pakistan agreed to a full and immediate ceasefire following U.S.-mediated talks.",
+    "affectedArea": 150,
+    "casualties": 66,
+    "status": "active",
+    "processed_by": "AI Analysis System",
+    "processing_time": "new Date('2025-05-11T23:57:11Z')",
+    "analysis": "The ceasefire follows a significant escalation in the longstanding Kashmir conflict, with recent attacks resulting in numerous civilian casualties. U.S. mediation played a crucial role in bringing both nations to the negotiation table.",
+    "recommendations": [
+      "Establish a joint monitoring mechanism to oversee ceasefire adherence",
+      "Initiate diplomatic dialogues addressing the root causes of the conflict",
+      "Provide humanitarian aid to affected civilians in the border areas",
+      "Engage international organizations to support peacekeeping efforts",
+      "Implement confidence-building measures between the two nations"
+    ],
+    "lastUpdated": "new Date('2025-05-11T23:57:11Z')"
+  }
+}
+
+
+
+]
